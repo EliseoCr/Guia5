@@ -15,7 +15,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="64dp"
         android:fontFamily="sans-serif-black"
-        android:text="TimePlan"
+        android:text="TimePlanPrubaGit"
         android:textColor="#FFFFFF"
         android:textSize="34sp"
         app:layout_constraintEnd_toEndOf="parent"
