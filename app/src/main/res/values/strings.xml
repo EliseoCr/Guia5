@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Guia5</string>
+    <string name="conversations">Conversations</string>
+    <string name="login">Login</string>
+    <string name="Calculator">Calculator</string>
+    <string name="MisDatos">MisDatos</string>
+    <string name="nombre">Eliseo Antonio Cruz Rojas</string>
+    <string name="codigo">CR18I04001</string>
+</resources>
